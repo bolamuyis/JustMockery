@@ -14,7 +14,9 @@ body {
 .container {
     background-color:#088112;
     color: #000000;
+    max-width: 90%;
 }
-.col-12 .row {
-    margin: 25px 0;
+.card-body {
+    width: 100%;
 }
+
