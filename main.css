@@ -3,10 +3,18 @@
     padding: 0;
 }
 body {
-    background-color: #303030;
+    /* background-color: #303030; */
     text-align: center;
+    background-color: chartreuse;
 }
 .container-fluid {
     background-color: #EB5757;
     color: #ffffff;
+}
+.container {
+    background-color:#088112;
+    color: #000000;
+}
+.col-12 .row {
+    margin: 25px 0;
 }
