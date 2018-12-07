@@ -3,20 +3,21 @@
     padding: 0;
 }
 body {
-    /* background-color: #303030; */
+    background-color: #303030;
     text-align: center;
-    background-color: chartreuse;
 }
-.container-fluid {
+.jumboExtra {
     background-color: #EB5757;
     color: #ffffff;
+    padding: 30px;
+    margin-bottom: 0px;
 }
 .container {
-    background-color:#088112;
+    /* background-color:#088112; */
     color: #000000;
     max-width: 90%;
 }
-.card-body {
-    width: 100%;
+.card {
+    margin-top: 20px;
 }
 
